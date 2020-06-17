@@ -6,6 +6,6 @@
 
 # How To Install
 
-* Open `install.py`
+* Open `install.bat`
 * Let It Run.
 * Open `pyminal.py`
