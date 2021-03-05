@@ -1,3 +1,5 @@
+it may or may not just be a caneos clone with less features
+
 # Note
 
 * You Do Not Need Pycharm.
